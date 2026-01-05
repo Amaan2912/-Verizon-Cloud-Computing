@@ -1,2 +1,4 @@
-# -Verizon-Cloud-Computing
-Developed a Python-based VPN simulation using Squid proxy architecture. Tested resilience under simulated infrastructure failures, ensuring automated recovery. Defined performance, security, and interface testing frameworks with simulated Quality Assurance teams. 
+# Verizon Cloud Computing Simulation (Python)
+For this job simulation, I developed a Python-based VPN simulation using Squid proxy architecture. Aside from programming the system, I also tested resilience and system security under simulated infrastructure failures, ensuring automated recovery. This shows that I analyzed Verizon's cybersecurity protocols to ensure the cloud application's integrity and technical management. I also defined performance, security, and interface testing frameworks with simulated Quality Assurance teams. 
+
+This job simulation not only honed my programming skills, but it also helped me realize that the entire cloud computing system is highly dependent on the designers' protocols for security, performance, and reliability. This ensures that the technology works as expected to suit a specific purpose.
